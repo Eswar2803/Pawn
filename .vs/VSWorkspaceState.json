@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Sample Pawn"
+    "\\Sample Pawn",
+    "\\Sample Pawn\\UI"
   ],
-  "SelectedNode": "\\Sample Pawn\\Labels.Designer.cs",
+  "SelectedNode": "\\Sample Pawn\\UI\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
