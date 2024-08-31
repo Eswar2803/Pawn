@@ -1,0 +1,34 @@
+G:\Sample Pawn\Sample Pawn\bin\Debug\Sample Pawn.exe.config
+G:\Sample Pawn\Sample Pawn\bin\Debug\Sample Pawn.exe
+G:\Sample Pawn\Sample Pawn\bin\Debug\Sample Pawn.pdb
+G:\Sample Pawn\Sample Pawn\bin\Debug\ta\Sample Pawn.resources.dll
+G:\Sample Pawn\Sample Pawn\obj\Debug\Sample Pawn.csproj.AssemblyReference.cache
+G:\Sample Pawn\Sample Pawn\obj\Debug\Sample_Pawn.Form1.resources
+G:\Sample Pawn\Sample Pawn\obj\Debug\Sample_Pawn.Labels.resources
+G:\Sample Pawn\Sample Pawn\obj\Debug\Sample_Pawn.Properties.Resources.resources
+G:\Sample Pawn\Sample Pawn\obj\Debug\Sample_Pawn.Labels.ta.resources
+G:\Sample Pawn\Sample Pawn\obj\Debug\Sample Pawn.csproj.GenerateResource.cache
+G:\Sample Pawn\Sample Pawn\obj\Debug\Sample Pawn.csproj.CoreCompileInputs.cache
+G:\Sample Pawn\Sample Pawn\obj\Debug\ta\Sample Pawn.resources.dll
+G:\Sample Pawn\Sample Pawn\obj\Debug\Sample Pawn.exe
+G:\Sample Pawn\Sample Pawn\obj\Debug\Sample Pawn.pdb
+G:\Sample Pawn\Sample Pawn\bin\Debug\MaterialSkin.dll
+G:\Sample Pawn\Sample Pawn\obj\Debug\Sample P.C38A7E34.Up2Date
+G:\Sample Pawn\Sample Pawn\bin\Debug\MetroFramework.Design.dll
+G:\Sample Pawn\Sample Pawn\bin\Debug\MetroFramework.dll
+G:\Sample Pawn\Sample Pawn\bin\Debug\MetroFramework.Fonts.dll
+G:\Sample Pawn\Sample Pawn\bin\Debug\Syncfusion.Core.WinForms.dll
+G:\Sample Pawn\Sample Pawn\bin\Debug\Syncfusion.Licensing.dll
+G:\Sample Pawn\Sample Pawn\bin\Debug\Syncfusion.Shared.Base.dll
+G:\Sample Pawn\Sample Pawn\bin\Debug\Syncfusion.Core.WinForms.xml
+G:\Sample Pawn\Sample Pawn\bin\Debug\Syncfusion.Shared.Base.xml
+G:\Sample Pawn\Sample Pawn\bin\Debug\ComponentFactory.Krypton.Docking.dll
+G:\Sample Pawn\Sample Pawn\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+G:\Sample Pawn\Sample Pawn\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+G:\Sample Pawn\Sample Pawn\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+G:\Sample Pawn\Sample Pawn\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+G:\Sample Pawn\Sample Pawn\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+G:\Sample Pawn\Sample Pawn\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+G:\Sample Pawn\Sample Pawn\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+G:\Sample Pawn\Sample Pawn\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+G:\Sample Pawn\Sample Pawn\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
