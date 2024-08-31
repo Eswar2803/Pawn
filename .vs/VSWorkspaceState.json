@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Sample Pawn",
-    "\\Sample Pawn\\UI"
+    "\\Pawn_Software",
+    "\\Pawn_Software\\UI"
   ],
-  "SelectedNode": "\\Sample Pawn\\UI\\Form1.cs",
+  "SelectedNode": "\\Pawn_Software\\UI\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

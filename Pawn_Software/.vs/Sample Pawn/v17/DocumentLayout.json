@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\Sample Pawn\\Sample Pawn\\",
+  "WorkspaceRootPath": "G:\\Sample Pawn\\Pawn_Software\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20F7EAD8-3F7D-4CA7-9A7B-8EEFAFF532CA}|Sample Pawn.csproj|g:\\sample pawn\\sample pawn\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20F7EAD8-3F7D-4CA7-9A7B-8EEFAFF532CA}|Sample Pawn.csproj|g:\\sample pawn\\pawn_software\\ui\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20F7EAD8-3F7D-4CA7-9A7B-8EEFAFF532CA}|Sample Pawn.csproj|solutionrelative:ui\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F7EAD8-3F7D-4CA7-9A7B-8EEFAFF532CA}|Sample Pawn.csproj|g:\\sample pawn\\pawn_software\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20F7EAD8-3F7D-4CA7-9A7B-8EEFAFF532CA}|Sample Pawn.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20F7EAD8-3F7D-4CA7-9A7B-8EEFAFF532CA}|Sample Pawn.csproj|G:\\Sample Pawn\\Sample Pawn\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{20F7EAD8-3F7D-4CA7-9A7B-8EEFAFF532CA}|Sample Pawn.csproj|G:\\Sample Pawn\\Pawn_Software\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{20F7EAD8-3F7D-4CA7-9A7B-8EEFAFF532CA}|Sample Pawn.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -51,24 +55,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "homePage.cs [Design]",
+              "DocumentMoniker": "G:\\Sample Pawn\\Pawn_Software\\UI\\homePage.cs",
+              "RelativeDocumentMoniker": "UI\\homePage.cs",
+              "ToolTip": "G:\\Sample Pawn\\Pawn_Software\\UI\\homePage.cs [Design]",
+              "RelativeToolTip": "UI\\homePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:32:32.289Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "G:\\Sample Pawn\\Sample Pawn\\UI\\Form1.cs",
+              "DocumentMoniker": "G:\\Sample Pawn\\Pawn_Software\\UI\\Form1.cs",
               "RelativeDocumentMoniker": "UI\\Form1.cs",
-              "ToolTip": "G:\\Sample Pawn\\Sample Pawn\\UI\\Form1.cs",
+              "ToolTip": "G:\\Sample Pawn\\Pawn_Software\\UI\\Form1.cs",
               "RelativeToolTip": "UI\\Form1.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowAQAAAAbAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwCcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T10:11:32.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "G:\\Sample Pawn\\Sample Pawn\\UI\\Form1.cs",
+              "DocumentMoniker": "G:\\Sample Pawn\\Pawn_Software\\UI\\Form1.cs",
               "RelativeDocumentMoniker": "UI\\Form1.cs",
               "ToolTip": "G:\\Sample Pawn\\Sample Pawn\\UI\\Form1.cs [Design]",
-              "RelativeToolTip": "UI\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Sample Pawn\\UI\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T05:17:23.89Z"
             }
